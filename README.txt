@@ -14,11 +14,16 @@ From the JupyterHub home directory, click on “New” then “terminal” in th
 SAMPLES
 Samples are here
 eos/cms/store/group/phys_higgs/cmshmm/amarini/
-per accedervi da lxplus fare
-
+to acced from lxplus do
 ls /eos/cms/store/group/phys_higgs/cmshmm/amarini/
-
 it is better to copy it directly in the jupyter folder with the shell command 
 
 scp rdelliga@lxplus.cern.ch:/eos/cms/store/group/phys_higgs/cmshmm/amarini/WPLEPWMHADjj_4f_EWK_LO_TuneCP5_13TeV-madgraph-pythia8/UL2018-NANOAODSIMv9/220315_075136/0000/step7_456.root .
+
+GITHUB
+The folder coffea is saved in 
+https://github.com/rdelliga/coffea
+the password required to push a change is a token. My accounts's default identity are rdelliga@cern.ch and rdelliga.
+
+
 
