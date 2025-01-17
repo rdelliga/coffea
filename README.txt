@@ -1,4 +1,4 @@
-READING DATA WITH COFFEA NANOEVENTS
+READING DATA WITH COFFEA NANOEVENTS.
 
 NanoEvents is a Coffea utility to wrap flat nTuple structures (such as the CMS NanoAOD format) into a single awkward array with appropriate object methods (such as Lorentz vector methods ), cross references, and nested objects, all lazily accessed  from the source ROOT TTree via uproot.
 
